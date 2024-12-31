@@ -1,0 +1,1 @@
+this is a spam classification model using multinomialNB using kaggle datasets
