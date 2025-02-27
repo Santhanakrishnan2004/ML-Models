@@ -10,6 +10,10 @@ Each folder in this repository contains code for a specific machine learning mod
 - Implementation of a Decision Tree model.
 - Created using Colab.
 
+### 📂 RandomForestTree
+- Implementation of a RandomForestTree Regression and Classification model.
+- Created using Colab.
+
 ### 📂 FeatureEngineering
 - Code for various feature engineering techniques.
 - Created using Colab.
